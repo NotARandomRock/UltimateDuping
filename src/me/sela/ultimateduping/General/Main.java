@@ -1,6 +1,7 @@
 package me.sela.ultimateduping.General;
 
 import java.util.HashSet;
+
 import me.sela.ultimateduping.Commands.Dupe;
 import org.bukkit.Bukkit;
 import org.bukkit.configuration.file.FileConfiguration;
@@ -24,8 +25,8 @@ public class Main extends JavaPlugin
 
     getCommand("dupe").setExecutor(new Dupe());
     Bukkit.getPluginManager().registerEvents(new Events(), this);
-    config = getConfig();
     saveDefaultConfig();
+    config = getConfig();
     plugin = this;
     inventory = new HashSet();
     guislotsult = 54;
@@ -45,7 +46,8 @@ public class Main extends JavaPlugin
                     for (int i = 0; i <= Main.guislotsult - 1; i++)
                       if (inv.getItem(i) != null) {
                         ItemStack stack = inv.getItem(i);
-                        stack.setAmount(stack.getAmount() + 1);
+                          stack.setAmount(stack.getAmount() + 1);
+
                       }
                 } catch (Exception e) {
                   return;
