@@ -1,0 +1,10 @@
+name: UltimateDuping
+version: '${project.version}'
+main: net.rishon.codes.UltimateDuping
+authors: [ Rishon ]
+description: Minecraft 1.8 - 1.18 Duping Plugin
+website: https://rishon.codes
+commands:
+  dupe:
+    description: Main dupe command to open Dupe GUI.
+    permission: ultimatedupe.use

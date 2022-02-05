@@ -1,0 +1,11 @@
+# UltimateDuping
+# Author: Rishon
+# https://github.com/Rishon/UltimateDuping
+
+# Command Customization
+Command: "dupe"
+
+# GUI Customization
+Dupe-GUI:
+  Title: "&c&lDupe GUI"
+  Slots: 54

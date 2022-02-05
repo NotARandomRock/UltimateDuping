@@ -1,7 +1,0 @@
-name: UltimateDuping
-description: Advanced Duping plugin.
-version: 1.0
-main: me.sela.ultimateduping.General.Main
-
-commands:
-   dupe:
