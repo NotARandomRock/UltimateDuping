@@ -2,10 +2,14 @@
 # Author: Rishon
 # https://github.com/Rishon/UltimateDuping
 
-# Command Customization
+# Command Customization (Requires a server restart)
 Command: "dupe"
+
+# Messages
+Messages:
+  No-Permission: "#FF0000You do not have permission to use this command."
 
 # GUI Customization
 Dupe-GUI:
-  Title: "&c&lDupe GUI"
-  Slots: 54
+  Title: "#1DA1F2Place your items here!"
+  Max-Slots: 54
