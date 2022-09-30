@@ -6,7 +6,7 @@
 
     <groupId>dev.rishon.ultimateduping</groupId>
     <artifactId>UltimateDuping</artifactId>
-    <version>1.0</version>
+    <version>1.0.2</version>
     <packaging>jar</packaging>
 
     <name>UltimateDuping</name>
