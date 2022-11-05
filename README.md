@@ -8,6 +8,10 @@ Build the project with ``mvn clean install``
 
 ![Build](https://travis-ci.com/Rishon/UltimateDuping.svg?branch=main)
 
+## Wiki
+
+You can report bugs / issues on GitHub (https://github.com/Rishon/UltimateDuping/wiki)
+
 ## Issues
 
 You can report bugs / issues on GitHub (https://github.com/Rishon/UltimateDuping/issues)
