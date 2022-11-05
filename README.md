@@ -6,7 +6,7 @@ Build the project with ``mvn clean install``
 
 ## Build Status
 
-![Build](https://travis-ci.com/Rishon/UltimateDuping.svg?branch=main)
+![Build](https://travis-ci.com/Rishon/UltimateDuping.svg?branch=master)
 
 ## Wiki
 
