@@ -10,7 +10,7 @@ Build the project with ``mvn clean install``
 
 ## Wiki
 
-You can report bugs / issues on GitHub (https://github.com/Rishon/UltimateDuping/wiki)
+Check out the project repository wiki for more information (https://github.com/Rishon/UltimateDuping/wiki)
 
 ## Issues
 
