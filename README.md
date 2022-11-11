@@ -10,7 +10,7 @@ Build the project with ``mvn clean install``
 
 ## Wiki
 
-Check out the project repository wiki for more information (https://github.com/Rishon/UltimateDuping/wiki)
+Check out the wiki for more information (https://github.com/Rishon/UltimateDuping/wiki)
 
 ## Issues
 
